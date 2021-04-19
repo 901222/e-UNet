@@ -1,2 +1,4 @@
 # e-UNet
-Chronic Ischemic Stroke Lesion Segmentation
+e-UNet: An Efficient UNet for Chronic Ischemic Stroke Lesion Segmentation
+
+Code available soon!
